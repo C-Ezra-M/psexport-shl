@@ -1,5 +1,5 @@
 {
-  "name": "ps-export-format-shl",
+  "name": "psexport-shl",
   "description": "A simple Pokémon Showdown export format syntax highlighter and editor",
   "markdown": "github",
   "private": true,
@@ -20,7 +20,6 @@
     "@vitejs/plugin-react": "^2.2.0",
     "vite": "^3.2.3",
     "highlight.js": "^11.6.0",
-    "normalize.css": "^8.0.1",
-    "argparse": "^2.0.1"
+    "normalize.css": "^8.0.1"
   }
 }
